@@ -20,3 +20,4 @@ download "fluent-plugin-rewrite-tag-filter", "1.5.5"
 download "fluent-plugin-td-monitoring", "0.2.2"
 download "fluent-plugin-google-cloud", "0.5.2"
 download "fluent-plugin-detect-exceptions", "0.0.3"
+>>>>>>> f367b32e17df1353ca49df6ed5a2c0a5b54a8945
