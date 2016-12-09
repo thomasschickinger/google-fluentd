@@ -1,6 +1,5 @@
 dir 'plugin_gems'
 download "httpclient", "2.7.2"
-download "td-client", "0.8.81"
 download "td", "0.14.0"
 download "fluent-plugin-td", "0.10.28"
 download "thrift", "0.8.0"
@@ -20,4 +19,3 @@ download "fluent-plugin-rewrite-tag-filter", "1.5.5"
 download "fluent-plugin-td-monitoring", "0.2.2"
 download "fluent-plugin-google-cloud", "0.5.2"
 download "fluent-plugin-detect-exceptions", "0.0.3"
->>>>>>> f367b32e17df1353ca49df6ed5a2c0a5b54a8945
